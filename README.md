@@ -8,7 +8,7 @@
 6. Docker
 
 上記をインストールする必要があります。
-1 ~ 5 のインストール方法などは、[Railway 準備編](https://www.notion.so/techbowl/Railway-ceba695d5014460e9733c2a46318cdec) をご確認ください。
+1 ~ 5 のインストール方法などは、[Railway 準備編](https://techbowl.notion.site/Railway-ceba695d5014460e9733c2a46318cdec) をご確認ください。
 
 Docker のセットアップについては、Railway 内の Station3 で行います。
 
