@@ -38,6 +38,7 @@ services:
             - yarn_installation
         env_file:
             - .env
+        user: "1000:1000"
 
     mysql-container:
         container_name: "laravel-nyumon-mysql"
